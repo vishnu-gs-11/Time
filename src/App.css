@@ -1,0 +1,15 @@
+.app-container {
+    color: black;
+    background-color: lightgray;
+    height: 7500px;
+}
+
+.app-heading-container {
+    text-align: center;
+}
+
+.app-heading {
+    color: blue;
+    margin: 5px;
+    padding: 15px;
+}
