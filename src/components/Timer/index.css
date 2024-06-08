@@ -1,0 +1,51 @@
+.timer-container {
+    box-shadow: 0px 4px 40px rgba(23, 31, 70, 0.16);
+    margin: auto;
+    padding: 2px;
+    width: 300px;
+}
+
+.timer {
+    text-align: center;
+}
+
+.heading {
+    font-size: xx-large;
+    font-display: bold;
+    font-weight: 500;
+}
+
+.timing {
+    font-size: large;
+    font-display: bold;
+    font-weight: 500;
+}
+
+.btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.button {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.btn-start {
+    background-color: green;
+    color: white;
+}
+
+.btn-stop {
+    background-color: red;
+    color: white;
+}
+
+.btn-reset {
+    background-color: blue;
+    color: white;
+}
